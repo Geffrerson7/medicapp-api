@@ -6,8 +6,8 @@ This is a RESTful API built with **FastAPI**, designed to provide high-performan
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-fastapi-project.git
-cd your-fastapi-project
+git clone https://github.com/Geffrerson7/medicapp-api
+cd medicapp-api
 ```
 ### 2. Create and activate a virtual environment:
 ```bash
