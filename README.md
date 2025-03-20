@@ -20,7 +20,11 @@ venv\Scripts\activate     # For Windows
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Run the API:
+### 4. Apply database migrations:
+```bash
+alembic upgrade head
+```
+### 5. Run the API:
 ```bash
 uvicorn app.main:app --reload
 ```
